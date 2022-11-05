@@ -1,3 +1,2 @@
-git add .
-git commit -m "<your message here>"
-git push origin main
+git commit -m "initial changes"
+git push --set-upstream origin master
