@@ -1,0 +1,41 @@
+.footerbg{
+    background-color: aliceblue;
+}
+a{
+    text-decoration: none;
+}
+.footerbg h1{
+    font-family: system-ui;
+}
+.footerbg i{
+    font-size: 30px;
+    padding-right: 12px;
+    color: #68abf1;
+    cursor: pointer;
+}
+li{
+    list-style: none;
+}
+.legalli li{
+    padding-bottom: 12px;
+    font-size: 18px;
+}
+ i a:nth-child(3){
+    color: #0d74cf;
+}
+.Reachicon i a:nth-child(4){
+    color: #05388a;
+}
+.Reachicon  a i:nth-child(5){
+    color: #ba076c !important;
+}
+.Reachicon i a:nth-child(6){
+    color: #ff0000;
+}
+ul{
+    padding-left: 0px !important;
+    color: rgb(45, 45, 45);
+}
+p{
+    color: rgb(45, 45, 45);
+}

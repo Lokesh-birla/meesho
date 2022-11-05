@@ -1,0 +1,22 @@
+.Navbgcolor{
+    border-bottom: 1px solid rgba(169, 169, 169, 0.412);
+}
+.Navbgcolor i{
+    color: black;
+}
+.Navbgcolor  i:hover{
+color: #e6179c;
+
+}
+.navitem li a{
+    color: rgba(60, 60, 60, 0.846) ;
+}
+.navitem li a:hover{
+    cursor: pointer;
+    color: #e6179c;
+
+}
+.rowm{
+    color: red;
+    font-size: 25px;
+}

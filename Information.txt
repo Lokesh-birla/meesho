@@ -1,0 +1,8 @@
+1. prevent routes on change direct from browser url.
+2. learn about redux three methods.
+3. Add Bootstrep and sementic UI.
+4. Add context api.
+5. git add .
+git status (green)
+git commit -m 'initial commits or whatever changes you done'
+git push origin main
